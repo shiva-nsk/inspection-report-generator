@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Inspection Report Generator</title>
+  <link rel="preload" href="assets/fonts/InstrumentSans-Regular.ttf" as="font" type="font/ttf" crossorigin>
+  <link rel="stylesheet" href="css/app.css">
+  <!-- PDF library (classic script, exposes window.jspdf) - must load before the app module -->
+  <script src="vendor/jspdf.umd.min.js"></script>
+  <script type="module" src="js/main.js"></script>
+</head>
+<body class="is-loading">
+  <a class="skip-link" href="#main">Skip to the form</a>
+
+  <header class="topbar">
+    <img class="topbar-logo" src="assets/brand/logo-header.png" alt="Akshara Elite Home Inspections" width="151" height="32">
+    <div class="topbar-title">
+      <span class="report-name" id="report-name">Untitled report</span>
+      <span class="save-status is-saved" id="save-status">Saved ✓</span>
+    </div>
+    <div class="topbar-actions" role="toolbar" aria-label="Report actions">
+      <button type="button" id="btn-new" class="tb-btn" title="Clear everything and start a new report">New report</button>
+      <button type="button" id="btn-export" class="tb-btn" title="Save the whole report with photos as one file, to continue later or on another computer">Export draft</button>
+      <label class="tb-btn file-btn" title="Open a draft file saved with “Export draft”">
+        <input type="file" id="input-import" class="sr-only" accept=".json,application/json" aria-label="Import draft">
+        <span>Import draft</span>
+      </label>
+      <button type="button" id="btn-preview" class="tb-btn" data-pdf-btn>Preview PDF</button>
+      <button type="button" id="btn-download" class="tb-btn tb-primary" data-pdf-btn>Download PDF</button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <nav class="sidenav" id="sidenav" aria-label="Steps"></nav>
+    <main class="main" id="main" tabindex="-1">
+      <section class="panel" id="panel-details" aria-label="Report details"></section>
+      <section class="panel" id="panel-dimensions" aria-label="Spaces and dimensions" hidden></section>
+      <section class="panel" id="panel-water" aria-label="Water and fittings" hidden></section>
+      <section class="panel" id="panel-sections" aria-label="Sections and observations" hidden></section>
+      <section class="panel" id="panel-generate" aria-label="Preview and generate" hidden></section>
+      <noscript><p class="card">This app needs JavaScript. Please enable it, or open it in Chrome or Edge.</p></noscript>
+    </main>
+  </div>
+
+  <datalist id="dl-rooms"></datalist>
+  <datalist id="dl-fittings"></datalist>
+  <datalist id="dl-proptypes"></datalist>
+
+  <div id="toasts" class="toasts" aria-live="polite"></div>
+  <div id="progress" class="progress-panel" hidden></div>
+</body>
+</html>

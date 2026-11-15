@@ -1,0 +1,2485 @@
+{
+ "version": 1,
+ "details": {
+  "projectName": "My Home Sayuk",
+  "unitNo": "T-10-1702",
+  "customerName": "Sample Customer",
+  "propertyType": "3 BHK",
+  "inspectionDate": "2026-11-11"
+ },
+ "dimensions": {
+  "ceilingHeight": "9.27",
+  "doorHeight": "7.8",
+  "spaces": [
+   {
+    "id": "space1",
+    "name": "Master Bedroom",
+    "parts": [
+     {
+      "id": "part2",
+      "length": "21.19",
+      "width": "11.19",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space3",
+    "name": "Master Bathroom",
+    "parts": [
+     {
+      "id": "part4",
+      "length": "7.49",
+      "width": "4.68",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space5",
+    "name": "Utility",
+    "parts": [
+     {
+      "id": "part6",
+      "length": "11.22",
+      "width": "6.16",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space7",
+    "name": "Bedroom I",
+    "parts": [
+     {
+      "id": "part8",
+      "length": "12.92",
+      "width": "11.03",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space9",
+    "name": "Common Bathroom",
+    "parts": [
+     {
+      "id": "part10",
+      "length": "7.53",
+      "width": "5.62",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space11",
+    "name": "Kitchen",
+    "parts": [
+     {
+      "id": "part12",
+      "length": "11.21",
+      "width": "9.73",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space13",
+    "name": "Balcony",
+    "parts": [
+     {
+      "id": "part14",
+      "length": "12.03",
+      "width": "5.11",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space15",
+    "name": "Bathroom 1",
+    "parts": [
+     {
+      "id": "part16",
+      "length": "7.50",
+      "width": "5.64",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space17",
+    "name": "Bedroom 2",
+    "parts": [
+     {
+      "id": "part18",
+      "length": "11.84",
+      "width": "11.04",
+      "area": ""
+     }
+    ]
+   },
+   {
+    "id": "space19",
+    "name": "Living Room",
+    "parts": [
+     {
+      "id": "part20",
+      "length": "37.86",
+      "width": "11.91",
+      "area": ""
+     },
+     {
+      "id": "part21",
+      "length": "5.71",
+      "width": "3.69",
+      "area": "21.06"
+     },
+     {
+      "id": "part22",
+      "length": "5.71",
+      "width": "3.72",
+      "area": ""
+     },
+     {
+      "id": "part23",
+      "length": "3.3",
+      "width": "0.6",
+      "area": ""
+     }
+    ]
+   }
+  ]
+ },
+ "water": {
+  "tds": "242",
+  "tdsNote": "Total dissolved solids in supply water",
+  "tdsPhoto": {
+   "id": "p183",
+   "w": 713,
+   "h": 276
+  },
+  "ph": "7.0",
+  "phNote": "Neutral range (6.5 – 8.5 acceptable)",
+  "phPhoto": {
+   "id": "p184",
+   "w": 419,
+   "h": 342
+  },
+  "fittings": [
+   {
+    "id": "fit24",
+    "item": "Water Closet (WC)",
+    "brand": "Kohler"
+   },
+   {
+    "id": "fit25",
+    "item": "Wash Basin (WB)",
+    "brand": "Kohler"
+   },
+   {
+    "id": "fit26",
+    "item": "Electrical",
+    "brand": "Legrand"
+   }
+  ]
+ },
+ "rooms": [
+  {
+   "id": "room27",
+   "name": "Living Room",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p001",
+     "w": 751,
+     "h": 522
+    },
+    {
+     "id": "p002",
+     "w": 709,
+     "h": 518
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs28",
+     "photos": [
+      {
+       "id": "p003",
+       "w": 830,
+       "h": 564
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs29",
+     "photos": [
+      {
+       "id": "p004",
+       "w": 830,
+       "h": 457
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs30",
+     "photos": [
+      {
+       "id": "p005",
+       "w": 830,
+       "h": 507
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs31",
+     "photos": [
+      {
+       "id": "p006",
+       "w": 830,
+       "h": 529
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs32",
+     "photos": [
+      {
+       "id": "p007",
+       "w": 864,
+       "h": 468
+      }
+     ],
+     "description": "Stains observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs33",
+     "photos": [
+      {
+       "id": "p008",
+       "w": 830,
+       "h": 531
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs34",
+     "photos": [
+      {
+       "id": "p009",
+       "w": 830,
+       "h": 561
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs35",
+     "photos": [
+      {
+       "id": "p010",
+       "w": 830,
+       "h": 579
+      }
+     ],
+     "description": "Polishing required on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs36",
+     "photos": [
+      {
+       "id": "p011",
+       "w": 830,
+       "h": 499
+      }
+     ],
+     "description": "Polishing required on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs37",
+     "photos": [
+      {
+       "id": "p012",
+       "w": 830,
+       "h": 535
+      }
+     ],
+     "description": "Sealant gap observed on both sides of frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs38",
+     "photos": [
+      {
+       "id": "p013",
+       "w": 830,
+       "h": 588
+      }
+     ],
+     "description": "Sealant gap observed on both sides of frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs39",
+     "photos": [
+      {
+       "id": "p014",
+       "w": 830,
+       "h": 559
+      }
+     ],
+     "description": "Sealant gap observed on both sides of frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs40",
+     "photos": [
+      {
+       "id": "p015",
+       "w": 830,
+       "h": 499
+      }
+     ],
+     "description": "Door frame edge finishing not satisfactory",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs41",
+     "photos": [
+      {
+       "id": "p016",
+       "w": 830,
+       "h": 553
+      }
+     ],
+     "description": "Hairline crack observed on door frame",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs42",
+     "photos": [
+      {
+       "id": "p017",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Chip off observed on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs43",
+     "photos": [
+      {
+       "id": "p018",
+       "w": 1040,
+       "h": 562
+      }
+     ],
+     "description": "Gap observed on door frame after closing",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs44",
+     "photos": [
+      {
+       "id": "p019",
+       "w": 830,
+       "h": 511
+      }
+     ],
+     "description": "Gap observed on door frame after closing",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs45",
+     "photos": [
+      {
+       "id": "p020",
+       "w": 830,
+       "h": 527
+      }
+     ],
+     "description": "Gap observed on switch cover plate",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs46",
+     "photos": [
+      {
+       "id": "p021",
+       "w": 830,
+       "h": 564
+      }
+     ],
+     "description": "Hardware is loosely fixed",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs47",
+     "photos": [
+      {
+       "id": "p022",
+       "w": 830,
+       "h": 574
+      }
+     ],
+     "description": "Scratches observed on door fittings",
+     "location": "",
+     "severity": "cosmetic"
+    },
+    {
+     "id": "obs48",
+     "photos": [
+      {
+       "id": "p023",
+       "w": 830,
+       "h": 548
+      }
+     ],
+     "description": "Hardware is loosely fixed",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs49",
+     "photos": [
+      {
+       "id": "p024",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs50",
+     "photos": [
+      {
+       "id": "p025",
+       "w": 830,
+       "h": 585
+      }
+     ],
+     "description": "Door jambs finishing not satisfactory",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs51",
+     "photos": [
+      {
+       "id": "p026",
+       "w": 830,
+       "h": 557
+      }
+     ],
+     "description": "Stains observed on painted walls",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs52",
+     "photos": [
+      {
+       "id": "p027",
+       "w": 830,
+       "h": 553
+      }
+     ],
+     "description": "Sensor meters missing",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs53",
+     "photos": [
+      {
+       "id": "p028",
+       "w": 830,
+       "h": 577
+      }
+     ],
+     "description": "Stains observed on window glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs54",
+     "photos": [
+      {
+       "id": "p029",
+       "w": 830,
+       "h": 553
+      }
+     ],
+     "description": "Stains observed on painted walls",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs55",
+     "photos": [
+      {
+       "id": "p030",
+       "w": 830,
+       "h": 568
+      }
+     ],
+     "description": "Stain observed on door glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs56",
+     "photos": [
+      {
+       "id": "p031",
+       "w": 830,
+       "h": 555
+      }
+     ],
+     "description": "Stain observed on door glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs57",
+     "photos": [
+      {
+       "id": "p032",
+       "w": 830,
+       "h": 577
+      }
+     ],
+     "description": "Ms grill not fixed entire flat",
+     "location": "",
+     "severity": "major"
+    }
+   ]
+  },
+  {
+   "id": "room58",
+   "name": "Balcony",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p033",
+     "w": 739,
+     "h": 499
+    },
+    {
+     "id": "p034",
+     "w": 716,
+     "h": 501
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs59",
+     "photos": [
+      {
+       "id": "p035",
+       "w": 830,
+       "h": 540
+      }
+     ],
+     "description": "Grouting work not satisfactory",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs60",
+     "photos": [
+      {
+       "id": "p036",
+       "w": 830,
+       "h": 516
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs61",
+     "photos": [
+      {
+       "id": "p037",
+       "w": 830,
+       "h": 536
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs62",
+     "photos": [
+      {
+       "id": "p038",
+       "w": 830,
+       "h": 570
+      }
+     ],
+     "description": "Stains observed on coping granite",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs63",
+     "photos": [
+      {
+       "id": "p039",
+       "w": 830,
+       "h": 575
+      }
+     ],
+     "description": "Grouting gap observed on coping walls",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs64",
+     "photos": [
+      {
+       "id": "p040",
+       "w": 830,
+       "h": 536
+      }
+     ],
+     "description": "Grouting gap observed on coping wall",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs65",
+     "photos": [
+      {
+       "id": "p041",
+       "w": 830,
+       "h": 535
+      }
+     ],
+     "description": "Painting required on wall surface",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs66",
+     "photos": [
+      {
+       "id": "p042",
+       "w": 830,
+       "h": 581
+      }
+     ],
+     "description": "Water leakage observed on counter top",
+     "location": "",
+     "severity": "major"
+    }
+   ]
+  },
+  {
+   "id": "room67",
+   "name": "Kitchen",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p043",
+     "w": 792,
+     "h": 514
+    },
+    {
+     "id": "p044",
+     "w": 654,
+     "h": 514
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs68",
+     "photos": [
+      {
+       "id": "p045",
+       "w": 830,
+       "h": 525
+      }
+     ],
+     "description": "Chip off observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs69",
+     "photos": [
+      {
+       "id": "p046",
+       "w": 830,
+       "h": 472
+      }
+     ],
+     "description": "Grouting gap observed on floor tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs70",
+     "photos": [
+      {
+       "id": "p047",
+       "w": 830,
+       "h": 549
+      }
+     ],
+     "description": "Stains observed on window tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs71",
+     "photos": [
+      {
+       "id": "p048",
+       "w": 830,
+       "h": 546
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs72",
+     "photos": [
+      {
+       "id": "p049",
+       "w": 830,
+       "h": 564
+      }
+     ],
+     "description": "Stains observed on painted walls",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs73",
+     "photos": [
+      {
+       "id": "p050",
+       "w": 830,
+       "h": 505
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs74",
+     "photos": [
+      {
+       "id": "p051",
+       "w": 830,
+       "h": 533
+      }
+     ],
+     "description": "Chip off observed on dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs75",
+     "photos": [
+      {
+       "id": "p052",
+       "w": 830,
+       "h": 536
+      }
+     ],
+     "description": "Noise observed on window shutter",
+     "location": "",
+     "severity": "major"
+    }
+   ]
+  },
+  {
+   "id": "room76",
+   "name": "Utility",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p053",
+     "w": 744,
+     "h": 497
+    },
+    {
+     "id": "p054",
+     "w": 705,
+     "h": 492
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs77",
+     "photos": [
+      {
+       "id": "p055",
+       "w": 1040,
+       "h": 511
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs78",
+     "photos": [
+      {
+       "id": "p056",
+       "w": 1040,
+       "h": 548
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs79",
+     "photos": [
+      {
+       "id": "p057",
+       "w": 1040,
+       "h": 531
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs80",
+     "photos": [
+      {
+       "id": "p058",
+       "w": 1040,
+       "h": 535
+      }
+     ],
+     "description": "Chip off observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs81",
+     "photos": [
+      {
+       "id": "p059",
+       "w": 1040,
+       "h": 540
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs82",
+     "photos": [
+      {
+       "id": "p060",
+       "w": 1040,
+       "h": 559
+      }
+     ],
+     "description": "Grouting gap observed on floor tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs83",
+     "photos": [
+      {
+       "id": "p061",
+       "w": 830,
+       "h": 535
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs84",
+     "photos": [
+      {
+       "id": "p062",
+       "w": 1040,
+       "h": 548
+      }
+     ],
+     "description": "Hairline crack observed on dummy sheet",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs85",
+     "photos": [
+      {
+       "id": "p063",
+       "w": 830,
+       "h": 568
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs86",
+     "photos": [
+      {
+       "id": "p064",
+       "w": 830,
+       "h": 592
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs87",
+     "photos": [
+      {
+       "id": "p065",
+       "w": 830,
+       "h": 568
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs88",
+     "photos": [
+      {
+       "id": "p066",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs89",
+     "photos": [
+      {
+       "id": "p067",
+       "w": 830,
+       "h": 570
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs90",
+     "photos": [
+      {
+       "id": "p068",
+       "w": 1040,
+       "h": 562
+      }
+     ],
+     "description": "Grouting gap observed on coping wall",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs91",
+     "photos": [
+      {
+       "id": "p069",
+       "w": 830,
+       "h": 525
+      }
+     ],
+     "description": "Chip off observed on granite stone",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs92",
+     "photos": [
+      {
+       "id": "p070",
+       "w": 830,
+       "h": 568
+      }
+     ],
+     "description": "Wall edge finishing need to be done",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs93",
+     "photos": [
+      {
+       "id": "p071",
+       "w": 830,
+       "h": 559
+      }
+     ],
+     "description": "Stains observed on painted walls",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs94",
+     "photos": [
+      {
+       "id": "p072",
+       "w": 830,
+       "h": 533
+      }
+     ],
+     "description": "Switch cover plate not in line and level",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs95",
+     "photos": [
+      {
+       "id": "p073",
+       "w": 830,
+       "h": 579
+      }
+     ],
+     "description": "Chip off observed on door shutter",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs96",
+     "photos": [
+      {
+       "id": "p074",
+       "w": 830,
+       "h": 529
+      }
+     ],
+     "description": "Polishing required on door shutter",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs97",
+     "photos": [
+      {
+       "id": "p075",
+       "w": 830,
+       "h": 559
+      }
+     ],
+     "description": "Noise observed on door shutter while closing",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs98",
+     "photos": [
+      {
+       "id": "p076",
+       "w": 830,
+       "h": 605
+      }
+     ],
+     "description": "Rust stains observed on hinges",
+     "location": "",
+     "severity": "cosmetic"
+    },
+    {
+     "id": "obs99",
+     "photos": [
+      {
+       "id": "p077",
+       "w": 1040,
+       "h": 780
+      }
+     ],
+     "description": "Slightly slope issue on flooring",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs100",
+     "photos": [
+      {
+       "id": "p078",
+       "w": 830,
+       "h": 589
+      }
+     ],
+     "description": "Slightly slope issue on floor tiles",
+     "location": "",
+     "severity": "major"
+    }
+   ]
+  },
+  {
+   "id": "room101",
+   "name": "Master Bedroom",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p079",
+     "w": 785,
+     "h": 518
+    },
+    {
+     "id": "p080",
+     "w": 663,
+     "h": 522
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs102",
+     "photos": [
+      {
+       "id": "p081",
+       "w": 830,
+       "h": 536
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "Master Bathroom",
+     "severity": "minor"
+    },
+    {
+     "id": "obs103",
+     "photos": [
+      {
+       "id": "p082",
+       "w": 830,
+       "h": 492
+      }
+     ],
+     "description": "Grouting gap observed in skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs104",
+     "photos": [
+      {
+       "id": "p083",
+       "w": 830,
+       "h": 568
+      }
+     ],
+     "description": "Stains observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs105",
+     "photos": [
+      {
+       "id": "p084",
+       "w": 830,
+       "h": 557
+      }
+     ],
+     "description": "Gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs106",
+     "photos": [
+      {
+       "id": "p085",
+       "w": 830,
+       "h": 586
+      }
+     ],
+     "description": "Gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs107",
+     "photos": [
+      {
+       "id": "p086",
+       "w": 830,
+       "h": 553
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs108",
+     "photos": [
+      {
+       "id": "p087",
+       "w": 830,
+       "h": 540
+      }
+     ],
+     "description": "Door back side buffer need to be provided",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs109",
+     "photos": [
+      {
+       "id": "p088",
+       "w": 830,
+       "h": 572
+      }
+     ],
+     "description": "Hairline crack observed on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs110",
+     "photos": [
+      {
+       "id": "p089",
+       "w": 830,
+       "h": 564
+      }
+     ],
+     "description": "Polishing required on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs111",
+     "photos": [
+      {
+       "id": "p090",
+       "w": 830,
+       "h": 570
+      }
+     ],
+     "description": "Gap observed on door frame joint",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs112",
+     "photos": [
+      {
+       "id": "p091",
+       "w": 1040,
+       "h": 780
+      }
+     ],
+     "description": "Stains observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs113",
+     "photos": [
+      {
+       "id": "p092",
+       "w": 830,
+       "h": 575
+      }
+     ],
+     "description": "Stains observed on window",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs114",
+     "photos": [
+      {
+       "id": "p093",
+       "w": 830,
+       "h": 544
+      }
+     ],
+     "description": "Door fittings not operating smoothly",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs115",
+     "photos": [
+      {
+       "id": "p094",
+       "w": 830,
+       "h": 564
+      }
+     ],
+     "description": "Internal sealant gap observed on window frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs116",
+     "photos": [
+      {
+       "id": "p095",
+       "w": 830,
+       "h": 557
+      }
+     ],
+     "description": "Stains observed on window glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs117",
+     "photos": [
+      {
+       "id": "p096",
+       "w": 830,
+       "h": 557
+      }
+     ],
+     "description": "Window fitting not operating smoothly",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs118",
+     "photos": [
+      {
+       "id": "p097",
+       "w": 830,
+       "h": 603
+      }
+     ],
+     "description": "Wall surface finishing not satisfactory",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs119",
+     "photos": [
+      {
+       "id": "p098",
+       "w": 830,
+       "h": 585
+      }
+     ],
+     "description": "Stains observed on wall surface",
+     "location": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "id": "room120",
+   "name": "Master Bathroom",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p099",
+     "w": 735,
+     "h": 507
+    },
+    {
+     "id": "p100",
+     "w": 700,
+     "h": 514
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs121",
+     "photos": [
+      {
+       "id": "p101",
+       "w": 830,
+       "h": 524
+      }
+     ],
+     "description": "Damage observed on floor tiles and stopper missing",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs122",
+     "photos": [
+      {
+       "id": "p102",
+       "w": 830,
+       "h": 511
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs123",
+     "photos": [
+      {
+       "id": "p103",
+       "w": 830,
+       "h": 536
+      }
+     ],
+     "description": "Hollow sound observed on dado tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs124",
+     "photos": [
+      {
+       "id": "p104",
+       "w": 830,
+       "h": 511
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs125",
+     "photos": [
+      {
+       "id": "p105",
+       "w": 830,
+       "h": 581
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs126",
+     "photos": [
+      {
+       "id": "p106",
+       "w": 830,
+       "h": 542
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs127",
+     "photos": [
+      {
+       "id": "p107",
+       "w": 830,
+       "h": 588
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs128",
+     "photos": [
+      {
+       "id": "p108",
+       "w": 830,
+       "h": 585
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs129",
+     "photos": [
+      {
+       "id": "p109",
+       "w": 830,
+       "h": 538
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs130",
+     "photos": [
+      {
+       "id": "p110",
+       "w": 830,
+       "h": 524
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs131",
+     "photos": [
+      {
+       "id": "p111",
+       "w": 830,
+       "h": 570
+      }
+     ],
+     "description": "Chip off observed on floor tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs132",
+     "photos": [
+      {
+       "id": "p112",
+       "w": 830,
+       "h": 566
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs133",
+     "photos": [
+      {
+       "id": "p113",
+       "w": 830,
+       "h": 533
+      }
+     ],
+     "description": "Noise observed on door shutter",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs134",
+     "photos": [
+      {
+       "id": "p114",
+       "w": 830,
+       "h": 572
+      }
+     ],
+     "description": "Stains observed on window glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs135",
+     "photos": [
+      {
+       "id": "p115",
+       "w": 830,
+       "h": 529
+      }
+     ],
+     "description": "Faster cap is missing",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs136",
+     "photos": [
+      {
+       "id": "p116",
+       "w": 830,
+       "h": 574
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs137",
+     "photos": [
+      {
+       "id": "p117",
+       "w": 830,
+       "h": 574
+      }
+     ],
+     "description": "Floor tile edge finishing not satisfactory",
+     "location": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "id": "room138",
+   "name": "Bedroom 1",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p118",
+     "w": 720,
+     "h": 416
+    },
+    {
+     "id": "p119",
+     "w": 700,
+     "h": 418
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs139",
+     "photos": [
+      {
+       "id": "p120",
+       "w": 830,
+       "h": 544
+      }
+     ],
+     "description": "Grouting gap observed on floor tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs140",
+     "photos": [
+      {
+       "id": "p121",
+       "w": 830,
+       "h": 549
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs141",
+     "photos": [
+      {
+       "id": "p122",
+       "w": 830,
+       "h": 562
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs142",
+     "photos": [
+      {
+       "id": "p123",
+       "w": 830,
+       "h": 512
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs143",
+     "photos": [
+      {
+       "id": "p124",
+       "w": 830,
+       "h": 574
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs144",
+     "photos": [
+      {
+       "id": "p125",
+       "w": 830,
+       "h": 531
+      }
+     ],
+     "description": "Polishing required on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs145",
+     "photos": [
+      {
+       "id": "p126",
+       "w": 830,
+       "h": 527
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs146",
+     "photos": [
+      {
+       "id": "p127",
+       "w": 830,
+       "h": 546
+      }
+     ],
+     "description": "Sealant gap observed on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs147",
+     "photos": [
+      {
+       "id": "p128",
+       "w": 830,
+       "h": 564
+      }
+     ],
+     "description": "Knob touches the hardware while closing door",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs148",
+     "photos": [
+      {
+       "id": "p129",
+       "w": 830,
+       "h": 585
+      }
+     ],
+     "description": "Knob touches the hardware while closing door",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs149",
+     "photos": [
+      {
+       "id": "p130",
+       "w": 830,
+       "h": 549
+      }
+     ],
+     "description": "Wall edge finishing not satisfactory",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs150",
+     "photos": [
+      {
+       "id": "p131",
+       "w": 830,
+       "h": 546
+      }
+     ],
+     "description": "Stains observed on window glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs151",
+     "photos": [
+      {
+       "id": "p132",
+       "w": 830,
+       "h": 577
+      }
+     ],
+     "description": "Noise observed on window shutter",
+     "location": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "id": "room152",
+   "name": "Bathroom 1",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p133",
+     "w": 720,
+     "h": 475
+    },
+    {
+     "id": "p134",
+     "w": 709,
+     "h": 472
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs153",
+     "photos": [
+      {
+       "id": "p135",
+       "w": 830,
+       "h": 525
+      }
+     ],
+     "description": "Hollow sound observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs154",
+     "photos": [
+      {
+       "id": "p136",
+       "w": 830,
+       "h": 499
+      }
+     ],
+     "description": "Chip off observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs155",
+     "photos": [
+      {
+       "id": "p137",
+       "w": 830,
+       "h": 522
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs156",
+     "photos": [
+      {
+       "id": "p138",
+       "w": 830,
+       "h": 527
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs157",
+     "photos": [
+      {
+       "id": "p139",
+       "w": 830,
+       "h": 575
+      }
+     ],
+     "description": "Grouting gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs158",
+     "photos": [
+      {
+       "id": "p140",
+       "w": 830,
+       "h": 546
+      }
+     ],
+     "description": "Sealant gap observed on commode",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs159",
+     "photos": [
+      {
+       "id": "p141",
+       "w": 830,
+       "h": 544
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs160",
+     "photos": [
+      {
+       "id": "p142",
+       "w": 830,
+       "h": 553
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs161",
+     "photos": [
+      {
+       "id": "p143",
+       "w": 830,
+       "h": 553
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs162",
+     "photos": [
+      {
+       "id": "p144",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs163",
+     "photos": [
+      {
+       "id": "p145",
+       "w": 830,
+       "h": 566
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs164",
+     "photos": [
+      {
+       "id": "p146",
+       "w": 830,
+       "h": 583
+      }
+     ],
+     "description": "Damage observed on ledge Dado tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs165",
+     "photos": [
+      {
+       "id": "p147",
+       "w": 830,
+       "h": 555
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs166",
+     "photos": [
+      {
+       "id": "p148",
+       "w": 864,
+       "h": 457
+      }
+     ],
+     "description": "Gap observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs167",
+     "photos": [
+      {
+       "id": "p149",
+       "w": 830,
+       "h": 577
+      }
+     ],
+     "description": "Chip off observed on door shutter",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs168",
+     "photos": [
+      {
+       "id": "p150",
+       "w": 830,
+       "h": 477
+      }
+     ],
+     "description": "Stains observed on window glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs169",
+     "photos": [
+      {
+       "id": "p151",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Faster cap is missing",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs170",
+     "photos": [
+      {
+       "id": "p152",
+       "w": 830,
+       "h": 535
+      }
+     ],
+     "description": "Polishing required on door shutter",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs171",
+     "photos": [
+      {
+       "id": "p153",
+       "w": 830,
+       "h": 549
+      }
+     ],
+     "description": "Lockset not operating smoothly",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs172",
+     "photos": [
+      {
+       "id": "p154",
+       "w": 830,
+       "h": 566
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "id": "room173",
+   "name": "Bedroom 2",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p155",
+     "w": 768,
+     "h": 488
+    },
+    {
+     "id": "p156",
+     "w": 692,
+     "h": 483
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs174",
+     "photos": [
+      {
+       "id": "p157",
+       "w": 830,
+       "h": 507
+      }
+     ],
+     "description": "Hollow sound observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs175",
+     "photos": [
+      {
+       "id": "p158",
+       "w": 830,
+       "h": 546
+      }
+     ],
+     "description": "Hollow sound observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs176",
+     "photos": [
+      {
+       "id": "p159",
+       "w": 830,
+       "h": 535
+      }
+     ],
+     "description": "Hollow sound observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs177",
+     "photos": [
+      {
+       "id": "p160",
+       "w": 1040,
+       "h": 542
+      }
+     ],
+     "description": "Grouting gap observed on skirting tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs178",
+     "photos": [
+      {
+       "id": "p161",
+       "w": 830,
+       "h": 557
+      }
+     ],
+     "description": "Hollow sound observed on floor tiles",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs179",
+     "photos": [
+      {
+       "id": "p162",
+       "w": 830,
+       "h": 538
+      }
+     ],
+     "description": "Polishing required on door frame",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs180",
+     "photos": [
+      {
+       "id": "p163",
+       "w": 830,
+       "h": 562
+      }
+     ],
+     "description": "Wall edge finishing not satisfactory",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs181",
+     "photos": [
+      {
+       "id": "p164",
+       "w": 830,
+       "h": 575
+      }
+     ],
+     "description": "Stains observed on window glass",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs182",
+     "photos": [
+      {
+       "id": "p165",
+       "w": 830,
+       "h": 583
+      }
+     ],
+     "description": "Internal sealant gap observed in window frame",
+     "location": "",
+     "severity": "minor"
+    }
+   ]
+  },
+  {
+   "id": "room183",
+   "name": "Bathroom 2",
+   "subtitle": "",
+   "spaceImages": [
+    {
+     "id": "p166",
+     "w": 751,
+     "h": 535
+    },
+    {
+     "id": "p167",
+     "w": 713,
+     "h": 533
+    }
+   ],
+   "observations": [
+    {
+     "id": "obs184",
+     "photos": [
+      {
+       "id": "p168",
+       "w": 830,
+       "h": 524
+      }
+     ],
+     "description": "Grouting gap observed on floor tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs185",
+     "photos": [
+      {
+       "id": "p169",
+       "w": 830,
+       "h": 492
+      }
+     ],
+     "description": "Slightly slope issue observed on floor tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs186",
+     "photos": [
+      {
+       "id": "p170",
+       "w": 1040,
+       "h": 780
+      }
+     ],
+     "description": "Slightly slope issue observed on floor tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs187",
+     "photos": [
+      {
+       "id": "p171",
+       "w": 830,
+       "h": 536
+      }
+     ],
+     "description": "Grouting gap observed on floor tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs188",
+     "photos": [
+      {
+       "id": "p172",
+       "w": 830,
+       "h": 518
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs189",
+     "photos": [
+      {
+       "id": "p173",
+       "w": 830,
+       "h": 518
+      }
+     ],
+     "description": "Grouting gap observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs190",
+     "photos": [
+      {
+       "id": "p174",
+       "w": 830,
+       "h": 529
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs191",
+     "photos": [
+      {
+       "id": "p175",
+       "w": 830,
+       "h": 570
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs192",
+     "photos": [
+      {
+       "id": "p176",
+       "w": 830,
+       "h": 540
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs193",
+     "photos": [
+      {
+       "id": "p177",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs194",
+     "photos": [
+      {
+       "id": "p178",
+       "w": 830,
+       "h": 575
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs195",
+     "photos": [
+      {
+       "id": "p179",
+       "w": 830,
+       "h": 561
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs196",
+     "photos": [
+      {
+       "id": "p180",
+       "w": 830,
+       "h": 546
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "major"
+    },
+    {
+     "id": "obs197",
+     "photos": [
+      {
+       "id": "p181",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Hollow sound observed on Dado tile",
+     "location": "",
+     "severity": "minor"
+    },
+    {
+     "id": "obs198",
+     "photos": [
+      {
+       "id": "p182",
+       "w": 830,
+       "h": 551
+      }
+     ],
+     "description": "Damage observed on door fittings",
+     "location": "",
+     "severity": "major"
+    }
+   ]
+  }
+ ]
+}

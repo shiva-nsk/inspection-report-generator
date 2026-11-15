@@ -1,0 +1,15 @@
+{
+  "name": "inspection-report-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Akshara Elite Home Inspections - property inspection report (PDF) generator. Runs locally in the browser.",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test tests/unit/",
+    "test:pdf": "node tests/build-sample.js"
+  },
+  "devDependencies": {
+    "jspdf": "4.2.1"
+  }
+}
